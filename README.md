@@ -1,6 +1,6 @@
 ## 年会抽奖
 
-[演示地址](http://zhao-wendong.gitee.io/emea2022)
+[演示地址](https://zhaowend.github.io/lucky-draw/)
 
 > node版本 node 12
 
